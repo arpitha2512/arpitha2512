@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm Rahul Majukar</h1>
+<h1 align="center">Hi 👋, I'm Arpitha M B</h1>
 <h3 align="center">A passionate frontend developer, Java(Spring boot) Developer from India</h3>
 
 - 🔭 I’m currently working on **Farm360**
 
-- 🌱 I’m currently learning **React Native, NodeJs, Python**
+- 🌱 I’m currently learning **Java Full Stack**
 
-- 👨‍💻 All of my projects are available at [rahulvm.com](rahulvm.com)
+- 👨‍💻 All of my projects are available at [arpitha2512.com](arpitha2512.com)
 
 - 📝 I regularly write articles on [hackifytech.com](hackifytech.com)
 
-- 💬 Ask me about **React, Angular, Spring boot**
+- 💬 Ask me about **C,Java,SQL**
 
-- 📫 How to reach me **rahulmajukar38@gmail.com**
+- 📫 How to reach me **arpithamadival52@gmail.com**
 
-- 📄 Know about my experiences [rahulvm.com/resume](rahulvm.com/resume)
+- 📄 Know about my experiences []()
 
 ### 🧰 Languages and Tools
 
