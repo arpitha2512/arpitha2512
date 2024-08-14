@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects are available at [arpitha2512.com](arpitha2512.com)
 
-- 💬 Ask me about **C,Java,SQL**
+- 💬 Ask me about **HTML,CSS,Java,SQL**
 
 - 📫 How to reach me **arpithamadival52@gmail.com**
 
