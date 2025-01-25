@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Arpitha M B</h1>
 
-- 🌱 I’m currently learning **Java Full Stack**
+- 🌱 I'm certified **Java Full Stack** developer
 
 - 👨‍💻 All of my projects are available at [arpitha2512.com](arpitha2512.com)
 
-- 💬 Ask me about **HTML,CSS,Java,SQL**
+- 💬 Ask me about **HTML,CSS,Java,SQL,JavaScript,React**
 
 - 📫 How to reach me **arpithamadival52@gmail.com**
 
